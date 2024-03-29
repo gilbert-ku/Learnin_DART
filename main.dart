@@ -119,8 +119,15 @@ void main() {
 
   // The Ternary Operator
 
-  const score = 100;
-  const message = (score >=60 && score <= 100 )?"you've passed exams":"you failed";
+  // const score = 100;
+  // const message = (score >=60 && score <= 100 )?"you've passed exams":"you failed";
 
-  print(message);
+  // print(message);
+
+  // switch
+  
+  
+
+
+
 }
